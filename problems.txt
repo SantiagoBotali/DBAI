@@ -1,0 +1,5 @@
+no se guarda la conversacion cuando cambias de tab
+
+las querys defaults no coinciden con las tablas creadas, deberia estar vacio y se deberia guardar la ultima query ejecutada.
+
+agregar: exportar DB final para poder implementar en un proyecto
