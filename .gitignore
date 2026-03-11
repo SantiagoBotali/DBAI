@@ -29,6 +29,12 @@ tsconfig.tsbuildinfo
 # debug
 npm-debug.log*
 
+# internal notes
+problems.txt
+
+# runtime data
+data/sessions.json
+
 Arquitectura.md 
 Explain.md
 
